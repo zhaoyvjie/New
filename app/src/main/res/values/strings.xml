@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">New</string>
+    <string name="btn_dollar">dollar</string>
+    <string name="btn_euro">eruo</string>
+    <string name="btn_won">won</string>
+    <string name="btn_save">save</string>
+    <string name="btn_config">config</string>
+    <string name="menu_rate">setting</string>
+</resources>
