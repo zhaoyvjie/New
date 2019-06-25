@@ -6,4 +6,8 @@
     <string name="btn_save">save</string>
     <string name="btn_config">config</string>
     <string name="menu_rate">setting</string>
+    <string name="open_list">openlist</string>
+    <string name="rdo_home_label">首页</string>
+    <string name="rdo_func_label">功能</string>
+    <string name="rdo_setting_label">设置</string>
 </resources>
